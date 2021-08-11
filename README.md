@@ -1,2 +1,2 @@
 # sunfly.github.io
-This is mian page for sunfly
+This is main page for sunfly
